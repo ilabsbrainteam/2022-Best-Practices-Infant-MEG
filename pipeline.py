@@ -234,7 +234,7 @@ if not op.isdir(op.join(subjects_dir, subject)):
     coreg.set_scale_mode('3-axis')
     for _ in range(4):  # in lieu of setting a tolerance
         coreg.fit_icp(nasion_weight=1)
-    mne.write_trans(trans_fname, coreg.trans, overwrite=True)
+    mne.write_trans(trans_fname, coreg.trans)
     mne.coreg.scale_mri(
         surrogate, subject, coreg.scale, subjects_dir=subjects_dir,
         annot=True)

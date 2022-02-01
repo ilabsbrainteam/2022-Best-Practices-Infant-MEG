@@ -1,7 +1,9 @@
 2022-Best-Practices-Infant-MEG
 ==============================
 
-This repository contains a sample infant dataset analysis script.
+This repository contains a sample infant dataset analysis script. The
+corresponding data files (to be downloaded to the same folder as
+``pipeline.py``) can be obtained from `OSF.io <https://osf.io/2xf4y/files>`__.
 
 This script requrires:
 
