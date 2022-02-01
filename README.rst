@@ -3,7 +3,12 @@
 
 This repository contains a sample infant dataset analysis script. The
 corresponding data files (to be downloaded to the same folder as
-``pipeline.py``) can be obtained from `OSF.io <https://osf.io/2xf4y/files>`__.
+``pipeline.py``) can be obtained from OSF.io:
+
+- `ct_sparse.fif <https://osf.io/h3xn7/download>`__
+- `sss_cal.dat <https://osf.io/ryg5k/download>`__
+- `fc_12mo_102_raw.fif <https://osf.io/x95yf/download>`__
+- `fc_12mo_102_erm_raw.fif <https://osf.io/h5vsn/download>`__
 
 This script requrires:
 
