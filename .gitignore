@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated files
+*.fif
+*.h5
+*.html
+*.dat
+subjects/
+*-bads.txt
+*.pos
+amnoise-bids/

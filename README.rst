@@ -16,7 +16,8 @@ This script requrires:
 - `h5io <https://github.com/h5io/h5io>`__
 - `mnefun <https://github.com/LABSN/mnefun>`__
 
-If you install Anaconda, you can get all dependencies with something like:
+If you install `Anaconda <https://docs.anaconda.com/anaconda/install/index.html>`__,
+you can set up an isolated environment with all dependencies with:
 
 .. code-block:: console
 
